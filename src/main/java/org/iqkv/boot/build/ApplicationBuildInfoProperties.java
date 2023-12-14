@@ -1,10 +1,10 @@
-package org.ujar.boot.build;
+package org.iqkv.boot.build;
 
 import jakarta.validation.constraints.NotNull;
 
 import org.springframework.boot.context.properties.ConfigurationProperties;
 
-@ConfigurationProperties("ujar.build")
+@ConfigurationProperties("iqkv.build")
 public record ApplicationBuildInfoProperties(@NotNull String version,
                                              @NotNull String description,
                                              @NotNull String relativePath) {
