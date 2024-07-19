@@ -1,5 +1,5 @@
 {
-    "name": "@know-how-spring-boot/boot-build",
+    "name": "@iqkv/boot-build",
     "version": "24.0.0",
     "description": "Provide an optional Git commit hooks.",
     "private": true,
