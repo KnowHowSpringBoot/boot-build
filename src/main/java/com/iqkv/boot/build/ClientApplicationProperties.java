@@ -1,4 +1,4 @@
-package org.iqkv.boot.build;
+package com.iqkv.boot.build;
 
 import jakarta.validation.constraints.NotNull;
 

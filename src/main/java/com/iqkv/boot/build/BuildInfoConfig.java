@@ -1,4 +1,4 @@
-package org.iqkv.boot.build;
+package com.iqkv.boot.build;
 
 import org.springframework.boot.context.properties.EnableConfigurationProperties;
 import org.springframework.context.annotation.Configuration;
