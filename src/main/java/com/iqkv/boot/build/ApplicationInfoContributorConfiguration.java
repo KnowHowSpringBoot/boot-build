@@ -1,4 +1,4 @@
-package org.iqkv.boot.build;
+package com.iqkv.boot.build;
 
 import org.springframework.boot.actuate.autoconfigure.info.ConditionalOnEnabledInfoContributor;
 import org.springframework.boot.actuate.autoconfigure.info.InfoContributorAutoConfiguration;
