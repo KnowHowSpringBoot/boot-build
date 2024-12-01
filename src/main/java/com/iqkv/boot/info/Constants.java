@@ -1,4 +1,4 @@
-package com.iqkv.boot.build;
+package com.iqkv.boot.info;
 
 /**
  * App runtime constants.

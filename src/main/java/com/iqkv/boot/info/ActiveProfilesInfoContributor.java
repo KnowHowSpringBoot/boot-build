@@ -1,4 +1,4 @@
-package com.iqkv.boot.build;
+package com.iqkv.boot.info;
 
 import java.util.Arrays;
 import java.util.List;
