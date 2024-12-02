@@ -15,7 +15,7 @@ import org.springframework.core.env.ConfigurableEnvironment;
 public class ApplicationInfoContributorConfiguration {
 
   /**
-   * <p>activeProfilesInfoContributor.</p>
+   * activeProfilesInfoContributor.
    *
    * @param environment a {@link org.springframework.core.env.ConfigurableEnvironment} object.
    * @return a {@link ActiveProfilesInfoContributor} object.

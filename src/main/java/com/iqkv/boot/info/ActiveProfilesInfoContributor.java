@@ -16,7 +16,7 @@ public class ActiveProfilesInfoContributor implements InfoContributor {
   private final List<String> profiles;
 
   /**
-   * <p>Constructor for ActiveProfilesInfoContributor.</p>
+   * Constructor for ActiveProfilesInfoContributor.
    *
    * @param environment a {@link org.springframework.core.env.ConfigurableEnvironment} object.
    */
